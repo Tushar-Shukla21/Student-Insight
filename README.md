@@ -1,5 +1,5 @@
 # Student-Insight
-This is group project , for source code click here https://github.com/Tushar-Shukla21/Student-Insight
+This is group project , for source code [click here](https://github.com/Tushar-Shukla21/Student-Insight)
 
 Step to Run the Project ( in powershell )
 
